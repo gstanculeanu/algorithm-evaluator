@@ -2,7 +2,7 @@
 
 To install either 
 ```sh
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 
 Or manually install these two packages:
